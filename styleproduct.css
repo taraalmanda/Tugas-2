@@ -1,0 +1,42 @@
+/* Header Styles */
+header {
+    background-color: #150ba3; /* Change the background color as needed */
+    color: #3168bb; /* Change the text color as needed */
+    padding: 20px; /* Adjust padding as needed */
+    text-align: center; /* Adjust alignment as needed */
+}
+
+/* Footer Styles */
+footer {
+    background-color: #150ba3; /* Change the background color as needed */
+    color: #3168bb; /* Change the text color as needed */
+    padding: 20px; /* Adjust padding as needed */
+    text-align: center; /* Adjust alignment as needed */
+}
+
+/* Table Styles */
+table {
+    width: 50%; /* Adjust width as needed */
+    border: 1px solid #150ba3(23, 102, 155);
+    border-collapse: collapse;
+}
+
+
+tr {
+    width: 50%;
+    border: 1px solid #f2f2f2;
+    border-collapse: collapse;
+}
+
+
+th, td {
+    border: 1px solid #181515;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #150ba3;
+    color: white;
+}
